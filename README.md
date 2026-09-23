@@ -1,4 +1,4 @@
-we did this project: Michal David, Shani Olshtein, Ahuvi Fogel
+we did this project: Michal David, Shani Olshtein, Ahuvi Fogel.
 
 
 ## Run Locally
