@@ -1,5 +1,7 @@
-we did this project: Michal David, Shani Olshtein, Ahuvi Fogel.
-
+Hey!
+we all did this beautyfull project:
+Michal David, Shani Olshtein, Ahuvi Fogel
+👍
 
 ## Run Locally
 
