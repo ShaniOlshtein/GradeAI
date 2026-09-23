@@ -1,0 +1,7 @@
+{
+  "name": "Automated Grading & Handwriting OCR",
+  "description": "Expert Automated Grading and Handwriting OCR system that analyzes exam question papers, transcribes student handwritten answer sheets, locates visual boundaries, grades responses, and generates structured grading reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
